@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Game Jam",
+"productVersion": "0.1",
+"dataUrl": "Game Jam WebGL Build.data.unityweb",
+"wasmCodeUrl": "Game Jam WebGL Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Game Jam WebGL Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.3f1"
+}
